@@ -1,0 +1,8 @@
+
+# Denotes the quantiles used for encoding data entries
+quantiles = {'daytime': [5522.0, 39695.0, 53669.0, 81195.0],
+             'duration': [0.0, 0.018, 2.028],
+             'Src Conns': [1.0, 2.0, 87.0],
+             'Dst Conns': [1.0, 2.0, 87.0],
+             'Packets': [1.0, 2.0, 46.0],
+             'Bytes': [54.0, 66.0, 212.0, 42567.0]}
